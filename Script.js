@@ -1,10 +1,12 @@
 
-let ime = "Uros";
-let godine = "29";
+let ime = "Ana";
+let godine = "20";
 let jeStudent = true;
 console.log(ime, godine, jeStudent);
 let grad = "Beograd";
 console.log("Zivim u gradu" + " " +grad);
+console.log("Zove se "+ime);
+
 
 //Brojevi i Math operatori
 let a = 10;
