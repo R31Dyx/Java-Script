@@ -299,7 +299,7 @@ let brojevi4=[10,20,30,40];
 for (let i = 0; i < brojevi4.length; i++) {
     console.log("Podeljen sa 2 iznosti: "+brojevi4[i]/2);
 }
-//Zadatak 30
+//Zadataak 30
 let ocene3 = [5,3,4,2,5];
 for (let i = 0; i < ocene3.length; i++) {
     if (ocene3[i] >= 5) {
