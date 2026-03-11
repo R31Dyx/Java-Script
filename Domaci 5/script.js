@@ -20,10 +20,10 @@ if (broj > 5) {
 }
 
 //Zadatak 2
-let godine = 16;
+let godine = 18;
 if (godine < 18) {
     console.log("Maloletan");
-}else if(godine > 18) {
+}else if(godine >= 18) {
     console.log("Punoletan");
 }
 
