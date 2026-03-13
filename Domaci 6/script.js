@@ -301,7 +301,7 @@ for (let i in nizBrojevi1) {
     nizBrojevi1[i] += 5;
 }
 console.log(nizBrojevi1);
-//Zadatak 30
+///Zadatak 30
 let nizOcene = [5,3,4,2,5];
 for (let y in nizOcene) {
     if (nizOcene[y]===5){
